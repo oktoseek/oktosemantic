@@ -362,5 +362,11 @@ For more details on the OktoSemantic Training method, consult:
 
 ---
 
+## Zenodo Archive
+
+This work is archived on Zenodo as scientific evidence: [10.5281/zenodo.17931292](https://doi.org/10.5281/zenodo.17931292)
+
+---
+
 **Last Updated**: December 2024  
 **Version**: 1.0

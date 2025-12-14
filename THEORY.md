@@ -289,5 +289,11 @@ For $B=16$, $T=64$, $V=1M$, $K=32$:
 
 ---
 
+## Zenodo Archive
+
+This work is archived on Zenodo: [10.5281/zenodo.17931292](https://doi.org/10.5281/zenodo.17931292)
+
+---
+
 **Last Updated**: December 2024  
 **Version**: 1.0

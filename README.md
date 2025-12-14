@@ -2,6 +2,8 @@
 
 **Semantic Contrastive Token Approximation for Large-Vocabulary Language Models**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17931292.svg)](https://doi.org/10.5281/zenodo.17931292)
+
 ---
 
 ## Abstract
