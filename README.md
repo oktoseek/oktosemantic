@@ -45,7 +45,7 @@ OktoSemantic Training, also known as **Semantic Contrastive Token Approximation 
 
 **Author:** Ademir P. de Oliveira  
 **Organization:** OktoSeek AI  
-**Date:** December 2024
+**Date:** December 2025
 
 This method was conceived, designed, implemented, and evaluated by the author using a private training engine. All reported experimental results were obtained from real training runs executed on actual hardware (NVIDIA RTX 4070 Laptop GPU and NVIDIA RTX A6000).
 
@@ -188,11 +188,11 @@ Experimental results include high-resolution figures demonstrating:
 If you use this work in your research, please cite:
 
 ```bibtex
-@misc{oliveira2024oktosemantic,
+@misc{oliveira2025oktosemantic,
   title={OktoSemantic Training: Semantic Contrastive Token Approximation for Large-Vocabulary Language Models},
   author={Oliveira, Ademir P. de},
   organization={OktoSeek AI},
-  year={2024},
+  year={2025},
   howpublished={\url{https://github.com/oktoseek/oktosemantic}},
   doi={10.5281/zenodo.17931292}
 }
@@ -236,5 +236,5 @@ GitHub: [github.com/oktoseek](https://github.com/oktoseek)
 
 ---
 
-**Last Updated**: December 2024  
+**Last Updated**: December 2025  
 **Version**: 1.0

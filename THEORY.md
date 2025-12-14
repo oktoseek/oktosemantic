@@ -2,7 +2,7 @@
 
 **Author:** Ademir P. de Oliveira  
 **Organization:** OktoSeek AI  
-**Date:** December 2024
+**Date:** December 2025
 
 ---
 
@@ -295,5 +295,5 @@ This work is archived on Zenodo: [10.5281/zenodo.17931292](https://doi.org/10.52
 
 ---
 
-**Last Updated**: December 2024  
+**Last Updated**: December 2025  
 **Version**: 1.0

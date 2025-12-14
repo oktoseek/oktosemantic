@@ -68,11 +68,11 @@ This repository does NOT contain:
 If you use this work in your research, please cite:
 
 ```bibtex
-@misc{oliveira2024oktosemantic,
+@misc{oliveira2025oktosemantic,
   title={OktoSemantic Training: Semantic Contrastive Token Approximation for Large-Vocabulary Language Models},
   author={Oliveira, Ademir P. de},
   organization={OktoSeek AI},
-  year={2024},
+  year={2025},
   howpublished={\url{https://github.com/oktoseek/oktosemantic}},
   doi={10.5281/zenodo.17931292}
 }
@@ -88,5 +88,5 @@ GitHub: [github.com/oktoseek](https://github.com/oktoseek)
 
 ---
 
-**Last Updated**: December 2024  
+**Last Updated**: December 2025  
 **Version**: 1.0
