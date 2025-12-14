@@ -74,7 +74,7 @@ If you use this work in your research, please cite:
   organization={OktoSeek AI},
   year={2024},
   howpublished={\url{https://github.com/oktoseek/oktosemantic}},
-  note={Zenodo DOI: [To be added]}
+  doi={10.5281/zenodo.17931292}
 }
 ```
 

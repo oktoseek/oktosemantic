@@ -192,7 +192,7 @@ If you use this work in your research, please cite:
   organization={OktoSeek AI},
   year={2024},
   howpublished={\url{https://github.com/oktoseek/oktosemantic}},
-  note={Zenodo DOI: [To be added]}
+  doi={10.5281/zenodo.17931292}
 }
 ```
 
@@ -202,7 +202,9 @@ If you use this work in your research, please cite:
 
 This repository is archived on Zenodo as scientific evidence of the method:
 
-**Zenodo DOI**: [To be added after publication]
+**Zenodo DOI**: [10.5281/zenodo.17931292](https://doi.org/10.5281/zenodo.17931292)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17931292.svg)](https://doi.org/10.5281/zenodo.17931292)
 
 ---
 
