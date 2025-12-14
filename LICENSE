@@ -1,0 +1,52 @@
+OktoSemantic Training (SCTA) - Research Documentation License
+
+Copyright (c) 2024 OktoSeek AI. All Rights Reserved.
+
+This repository contains research documentation, mathematical formulations,
+experimental results, and scientific disclosure materials for the Semantic
+Contrastive Token Approximation (SCTA) training method.
+
+PERMITTED USES:
+
+✅ Read and study the documentation for research purposes
+✅ Cite this work in academic publications
+✅ Use experimental results for comparison and validation
+✅ Reference mathematical formulations in your research
+✅ Archive this repository for scientific record-keeping
+
+PROHIBITED USES:
+
+❌ Reverse engineer or attempt to reconstruct the implementation
+❌ Use this work to create competing training methods
+❌ Claim authorship or ownership of the method
+❌ Redistribute modified versions without attribution
+❌ Use for commercial training services without authorization
+
+SCIENTIFIC DISCLOSURE:
+
+This repository serves as:
+- Scientific disclosure and prior-art record
+- Documentation of experimental validation
+- Formal record of authorship and methodology
+
+The absence of source code in this repository is intentional. This repository
+is NOT a reference implementation and is NOT intended to enable easy
+reimplementation of the method.
+
+ATTRIBUTION:
+
+If you use this work in your research, you must:
+1. Cite the repository and author
+2. Acknowledge OktoSeek AI as the originator
+3. Include the Zenodo DOI (when available)
+
+THE DOCUMENTATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE DOCUMENTATION OR THE USE OR OTHER DEALINGS
+IN THE DOCUMENTATION.
+
+For licensing inquiries: contact@oktoseek.com
+Website: https://www.oktoseek.com
