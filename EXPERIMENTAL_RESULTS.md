@@ -362,9 +362,13 @@ For more details on the OktoSemantic Training method, consult:
 
 ---
 
-## Zenodo Archive
+## Scientific Archives
 
-This work is archived on Zenodo as scientific evidence: [10.5281/zenodo.17931292](https://doi.org/10.5281/zenodo.17931292)
+**Primary scientific record:**  
+Open Science Framework (OSF): [10.17605/OSF.IO/MRKPU](https://doi.org/10.17605/OSF.IO/MRKPU)
+
+**Repository archive:**  
+Zenodo: [10.5281/zenodo.17931292](https://doi.org/10.5281/zenodo.17931292)
 
 ---
 

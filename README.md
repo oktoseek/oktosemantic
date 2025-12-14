@@ -2,7 +2,7 @@
 
 **Semantic Contrastive Token Approximation for Large-Vocabulary Language Models**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17931292.svg)](https://doi.org/10.5281/zenodo.17931292)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17931292.svg)](https://doi.org/10.5281/zenodo.17931292) [![OSF DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FMRKPU-blue)](https://doi.org/10.17605/OSF.IO/MRKPU)
 
 ---
 
@@ -59,6 +59,9 @@ This repository serves as a **scientific disclosure and prior-art record** for t
 - **Formal documentation** of the mathematical formulation
 - **Experimental evidence** of empirical validity
 - **Prior art** documentation for scientific and patent purposes
+
+The authoritative scientific record of this work is maintained on the Open Science Framework (OSF):  
+https://doi.org/10.17605/OSF.IO/MRKPU
 
 **This repository is NOT intended to provide a reference implementation.** Source code, training scripts, and optimized kernels are not included. The absence of implementation details is intentional and does not imply the absence of a working system.
 
@@ -185,24 +188,56 @@ Experimental results include high-resolution figures demonstrating:
 
 ## Citation
 
-If you use this work in your research, please cite:
+If you use or reference this work, please cite the authoritative research record:
+
+**Oliveira, A. P. (2025).**  
+**OktoSemantic: Scalable Training Methods for Large-Vocabulary Language Models.**  
+Open Science Framework (OSF).  
+https://doi.org/10.17605/OSF.IO/MRKPU
+
+For software and repository archival purposes, see the Zenodo record:  
+https://doi.org/10.5281/zenodo.17931292
+
+### BibTeX — OSF (Primary Record)
 
 ```bibtex
 @misc{oliveira2025oktosemantic,
-  title={OktoSemantic Training: Semantic Contrastive Token Approximation for Large-Vocabulary Language Models},
-  author={Oliveira, Ademir P. de},
-  organization={OktoSeek AI},
-  year={2025},
-  howpublished={\url{https://github.com/oktoseek/oktosemantic}},
-  doi={10.5281/zenodo.17931292}
+  title        = {OktoSemantic: Scalable Training Methods for Large-Vocabulary Language Models},
+  author       = {Oliveira, Ademir P. de},
+  year         = {2025},
+  howpublished = {\url{https://doi.org/10.17605/OSF.IO/MRKPU}},
+  note         = {Open Science Framework},
+  doi          = {10.17605/OSF.IO/MRKPU}
+}
+```
+
+### BibTeX — Zenodo (Repository Archive)
+
+```bibtex
+@software{oliveira2025oktosemantic_zenodo,
+  author  = {Oliveira, Ademir P. de},
+  title   = {OktoSemantic Training (SCTA) — Repository Archive},
+  year    = {2025},
+  doi     = {10.5281/zenodo.17931292},
+  url     = {https://doi.org/10.5281/zenodo.17931292}
 }
 ```
 
 ---
 
-## Zenodo Archive
+## Scientific Archives
 
-This repository is archived on Zenodo as scientific evidence of the method:
+### Open Science Framework (OSF) — Primary Record
+
+The authoritative scientific record of this work is maintained on the Open Science Framework:
+
+**OSF DOI**: [10.17605/OSF.IO/MRKPU](https://doi.org/10.17605/OSF.IO/MRKPU)
+
+[![OSF DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FMRKPU-blue)](https://doi.org/10.17605/OSF.IO/MRKPU)
+
+### Zenodo Archive — Repository Archive
+
+This repository is also archived on Zenodo for software and repository archival purposes:
 
 **Zenodo DOI**: [10.5281/zenodo.17931292](https://doi.org/10.5281/zenodo.17931292)
 
@@ -212,9 +247,12 @@ This repository is archived on Zenodo as scientific evidence of the method:
 
 ## Related Work
 
-- **arXiv Submission**: `SCTA_Semantic_Contrastive_Token_Approximation/` (LaTeX source and figures)
+- **Manuscript prepared for arXiv submission**:  
+  *SCTA: Semantic Contrastive Token Approximation*
+
 - **OktoEngine**: Private training engine used for experimental validation
-- **OktoSeek AI**: [oktoseek.com](https://www.oktoseek.com)
+
+- **OktoSeek AI**: https://oktoseek.com
 
 ---
 

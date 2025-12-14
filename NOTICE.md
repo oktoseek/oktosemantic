@@ -63,18 +63,50 @@ This repository does NOT contain:
 
 ---
 
+## Scientific Archives
+
+**Primary scientific disclosure and authorship record:**  
+Open Science Framework (OSF)  
+DOI: https://doi.org/10.17605/OSF.IO/MRKPU
+
+**Repository archive:**  
+Zenodo  
+DOI: https://doi.org/10.5281/zenodo.17931292
+
 ## Citation and Attribution
 
-If you use this work in your research, please cite:
+If you use this work in your research, please cite the authoritative research record:
+
+**Oliveira, A. P. (2025).**  
+**OktoSemantic: Scalable Training Methods for Large-Vocabulary Language Models.**  
+Open Science Framework (OSF).  
+https://doi.org/10.17605/OSF.IO/MRKPU
+
+For software and repository archival purposes, see the Zenodo record:  
+https://doi.org/10.5281/zenodo.17931292
+
+### BibTeX — OSF (Primary Record)
 
 ```bibtex
 @misc{oliveira2025oktosemantic,
-  title={OktoSemantic Training: Semantic Contrastive Token Approximation for Large-Vocabulary Language Models},
-  author={Oliveira, Ademir P. de},
-  organization={OktoSeek AI},
-  year={2025},
-  howpublished={\url{https://github.com/oktoseek/oktosemantic}},
-  doi={10.5281/zenodo.17931292}
+  title        = {OktoSemantic: Scalable Training Methods for Large-Vocabulary Language Models},
+  author       = {Oliveira, Ademir P. de},
+  year         = {2025},
+  howpublished = {\url{https://doi.org/10.17605/OSF.IO/MRKPU}},
+  note         = {Open Science Framework},
+  doi          = {10.17605/OSF.IO/MRKPU}
+}
+```
+
+### BibTeX — Zenodo (Repository Archive)
+
+```bibtex
+@software{oliveira2025oktosemantic_zenodo,
+  author  = {Oliveira, Ademir P. de},
+  title   = {OktoSemantic Training (SCTA) — Repository Archive},
+  year    = {2025},
+  doi     = {10.5281/zenodo.17931292},
+  url     = {https://doi.org/10.5281/zenodo.17931292}
 }
 ```
 
